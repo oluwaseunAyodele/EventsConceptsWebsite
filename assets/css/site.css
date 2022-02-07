@@ -1,0 +1,52 @@
+  .bdr{border:solid 0px red;color:#fff;font-size:30px;} 
+  
+  .banner{
+background:url('../images/event08.jpg');
+padding:100px;background-size:cover;
+}
+  .banner-title-01{color:#4EEDF7;
+text-align:right;font-size:50px;
+text-shadow:3px 4px 5px #000;
+} 
+   .banner-title-02{color:#FC932A ;
+font-size:54px;text-shadow:3px 4px 5px #000;
+} 
+
+   .banner-links{text-align:center;}
+
+
+
+ .title{
+font-size:1.5em;
+} 
+
+.footer-links li  a{text-decoration:none;padding:5px;}
+.footer-links li{list-style-type:none;}
+
+
+.service-pics{margin:11px;border:solid 1px gray; border-radius:15px;width:300px;}
+.service-topics{text-align:right;}
+
+.footershell{
+background:url('../images/event08.jpg');
+background-size:cover;
+}
+.cover{background:rgba(18,0,28,0.8);padding:10px;}
+
+.cover h5{color:#fff;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
